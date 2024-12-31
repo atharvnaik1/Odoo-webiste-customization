@@ -1,0 +1,15 @@
+<odoo>
+    <template id="website_layout" name="Custom Website Layout">
+        <!-- Header Section -->
+        <div id="custom-header"></div>
+
+        <!-- Main Content Section -->
+        <div class="main-content">
+            <h2>Our Services</h2>
+            <p>We offer a wide range of services tailored to your business needs.</p>
+        </div>
+
+        <!-- Footer Section -->
+        <div id="custom-footer"></div>
+    </template>
+</odoo>
